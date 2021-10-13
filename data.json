@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Bagel and cream cheese",
+    "shortDes": "Sed vel enim sit amet nunc viverra dapibus.",
+    "longDes": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+    "price": 6.99,
+    "quantity": 1,
+    "img": "https://ibb.co/xst39gx",
+    "itemTpye": "breakfast"
+  },
+  {
+    "id": 2,
+    "title": "Breakfast sandwich",
+    "shortDes": "Nam ultrices, libero non mattis pulvinar",
+    "longDes": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+    "price": 9.99,
+    "quantity": 1,
+    "img": "https://ibb.co/McX5JfG",
+    "itemTpye": "breakfast"
+  },
+  {
+    "id": 3,
+    "title": "Baked Chiken",
+    "shortDes": "Proin eu mi.",
+    "longDes": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+    "price": 10.99,
+    "quantity": 1,
+    "img": "https://ibb.co/KX5Pqkw",
+    "itemTpye": "breakfast"
+  },
+  {
+    "id": 4,
+    "title": "Eggs Bendict",
+    "shortDes": "Cras mi pede, malesuada in, imperdiet et",
+    "longDes": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 8.99,
+    "quantity": 1,
+    "img": "https://ibb.co/VQfDpXb",
+    "itemTpye": "breakfast"
+  },
+  {
+    "id": 5,
+    "title": "Toast Crosissant Fried egg",
+    "shortDes": "Duis bibendum.",
+    "longDes": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 19.99,
+    "quantity": 1,
+    "img": "https://ibb.co/pyJmKbR",
+    "itemTpye": "breakfast"
+  },
+  {
+    "id": 6,
+    "title": "Full Breakfast Fried Egg Toast Brunch",
+    "shortDes": "Donec quis orci eget orci vehicula condimentum.",
+    "longDes": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "price": 3.99,
+    "quantity": 1,
+    "img": "https://ibb.co/vXcwRZ5",
+    "itemTpye": "breakfast"
+  },
+  {
+    "id": 7,
+    "title": "Healthy Meal Plan",
+    "shortDes": "Nulla Curabitur gravida nisi at nibh nisl.",
+    "longDes": "Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+    "price": 23.99,
+    "quantity": 1,
+    "img": "https://ibb.co/cCQy3mc",
+    "itemTpye": "lunch"
+  },
+  {
+    "id": 8,
+    "title": "Fried Chicken Bento",
+    "shortDes": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+    "longDes": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+    "price": 9.99,
+    "quantity": 1,
+    "img": "https://ibb.co/VNBrPFq",
+    "itemTpye": "lunch"
+  },
+  {
+    "id": 9,
+    "title": "Tarragon-Rubbed-Salmon",
+    "shortDes": "Fusce consequat.",
+    "longDes": "Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+    "price": 6.99,
+    "quantity": 1,
+    "img": "https://ibb.co/DRDz1Jk",
+    "itemTpye": "lunch"
+  },
+  {
+    "id": 10,
+    "title": "Indian Lunch",
+    "shortDes": "In sagittis dui vel nisl.",
+    "longDes": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",
+    "price": 8.99,
+    "quantity": 1,
+    "img": "https://ibb.co/547CF8f",
+    "itemTpye": "lunch"
+  },
+  {
+    "id": 11,
+    "title": "Beef Steak",
+    "shortDes": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl",
+    "longDes": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",
+    "price": 15.99,
+    "quantity": 1,
+    "img": "https://ibb.co/4R1ztQW",
+    "itemTpye": "lunch"
+  },
+  {
+    "id": 12,
+    "title": "Honey-Soy-Glazed Salmon with Peppers",
+    "shortDes": "In hac habitasse platea dictumst.",
+    "longDes": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "price": 7.99,
+    "quantity": 1,
+    "img": "https://ibb.co/zRwykmJ",
+    "itemTpye": "lunch"
+  },
+  {
+    "id": 13,
+    "title": "Salmon with Grapefruit and Lentil Salad",
+    "shortDes": "Pellentesque at nulla.",
+    "longDes": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",
+    "price": 9.99,
+    "quantity": 1,
+    "img": "https://ibb.co/x2ThwjS",
+    "itemTpye": "dinner"
+  },
+  {
+    "id": 14,
+    "title": "Lemony salmon Piccta",
+    "shortDes": "Duis consequat dui nec nisi volutpat eleifend.",
+    "longDes": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "price": 10.99,
+    "quantity": 1,
+    "img": "https://ibb.co/sgt5dRb",
+    "itemTpye": "dinner"
+  },
+  {
+    "id": 15,
+    "title": "Prok Tenderloin With Quinoa Pilaf",
+    "shortDes": "Maecenas ut massa quis augue luctus tincidunt",
+    "longDes": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+    "price": 12.99,
+    "quantity": 1,
+    "img": "https://ibb.co/RQz0M5s",
+    "itemTpye": "dinner"
+  },
+  {
+    "id": 16,
+    "title": "French fries with cheese",
+    "shortDes": "Pellentesque at nulla.",
+    "longDes": "Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+    "price": 8.99,
+    "quantity": 1,
+    "img": "https://ibb.co/1zpJ9QK",
+    "itemTpye": "dinner"
+  },
+  {
+    "id": 17,
+    "title": "Garlic Butter Baked Salmon",
+    "shortDes": "Phasellus sit amet erat.",
+    "longDes": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "price": 6.99,
+    "quantity": 1,
+    "img": "https://ibb.co/yYC7C3r",
+    "itemTpye": "dinner"
+  },
+  {
+    "id": 18,
+    "title": "Baked Chiken",
+    "shortDes": "Phasellus id sapien in sapien iaculis congue.",
+    "longDes": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 9.99,
+    "quantity": 1,
+    "img": "https://ibb.co/JKC5nQF",
+    "itemTpye": "dinner"
+  }
+]
